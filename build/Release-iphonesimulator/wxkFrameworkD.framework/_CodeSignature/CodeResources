@@ -4,6 +4,18 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/wxkFMPerson.h</key>
+		<data>
+		LF7Mzoq7oxB+7iKrYRmHxxqLmLE=
+		</data>
+		<key>Headers/wxkFWManager.h</key>
+		<data>
+		yIFE7JYTtJRFjCs4kvNkh4O3x7U=
+		</data>
+		<key>Headers/wxkFWModel.h</key>
+		<data>
+		FP+P2c/HQoyIW8VKoLBTJF5w4eY=
+		</data>
 		<key>Headers/wxkFrameworkD.h</key>
 		<data>
 		iFxii5jehT9NNiTnV7I4jvyCVhg=
@@ -19,6 +31,39 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/wxkFMPerson.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LF7Mzoq7oxB+7iKrYRmHxxqLmLE=
+			</data>
+			<key>hash2</key>
+			<data>
+			drInN5b+jmk/fkw3esxA0uELqy3H74wMnDz+xLQLAqo=
+			</data>
+		</dict>
+		<key>Headers/wxkFWManager.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yIFE7JYTtJRFjCs4kvNkh4O3x7U=
+			</data>
+			<key>hash2</key>
+			<data>
+			sPs7xR+MhMpqgXJEyRwgUunLFsaYnFxn504Z47Xj2eY=
+			</data>
+		</dict>
+		<key>Headers/wxkFWModel.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FP+P2c/HQoyIW8VKoLBTJF5w4eY=
+			</data>
+			<key>hash2</key>
+			<data>
+			GpDSOZvkVN2gYx6vZiwLv0kc0wd03CDPxZZDIQqvaXk=
+			</data>
+		</dict>
 		<key>Headers/wxkFrameworkD.h</key>
 		<dict>
 			<key>hash</key>
