@@ -21,7 +21,8 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => "https://github.com/wangxiaoKangK/wxkFrameWorkD.git", :tag => "#{spec.version}" }
 
   # spec.source_files  = "wxkFrameworkD", "wxkFrameworkD/**/*.{h,m}"
-  spec.ios.vendored_frameworks = 'wxkFrameworkD.framework'
+  spec.vendored_frameworks = "Products/**/*.{framework}"
+  # wxkFrameWorkD/Products/wxkFrameworkD/wxkFrameworkD.framework
 
 
   spec.platform = :ios, "9.0"
