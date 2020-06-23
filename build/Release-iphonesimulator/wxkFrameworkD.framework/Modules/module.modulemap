@@ -1,0 +1,6 @@
+framework module wxkFrameworkD {
+  umbrella header "wxkFrameworkD.h"
+
+  export *
+  module * { export * }
+}
