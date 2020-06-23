@@ -24,11 +24,11 @@
 		0D56775724A258A900F0A4F4 /* wxkFrameworkD.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D56774D24A258A900F0A4F4 /* wxkFrameworkD.framework */; };
 		0D56775C24A258A900F0A4F4 /* wxkFrameworkDTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D56775B24A258A900F0A4F4 /* wxkFrameworkDTests.m */; };
 		0D56775E24A258A900F0A4F4 /* wxkFrameworkD.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D56775024A258A900F0A4F4 /* wxkFrameworkD.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		0D56776924A2590E00F0A4F4 /* wxkFWModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D56776724A2590E00F0A4F4 /* wxkFWModel.h */; };
+		0D56776924A2590E00F0A4F4 /* wxkFWModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D56776724A2590E00F0A4F4 /* wxkFWModel.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0D56776A24A2590E00F0A4F4 /* wxkFWModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D56776824A2590E00F0A4F4 /* wxkFWModel.m */; };
-		0D56776D24A2591A00F0A4F4 /* wxkFWManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D56776B24A2591A00F0A4F4 /* wxkFWManager.h */; };
+		0D56776D24A2591A00F0A4F4 /* wxkFWManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D56776B24A2591A00F0A4F4 /* wxkFWManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0D56776E24A2591A00F0A4F4 /* wxkFWManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D56776C24A2591A00F0A4F4 /* wxkFWManager.m */; };
-		0D56777124A2592700F0A4F4 /* wxkFMPerson.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D56776F24A2592700F0A4F4 /* wxkFMPerson.h */; };
+		0D56777124A2592700F0A4F4 /* wxkFMPerson.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D56776F24A2592700F0A4F4 /* wxkFMPerson.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0D56777224A2592700F0A4F4 /* wxkFMPerson.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D56777024A2592700F0A4F4 /* wxkFMPerson.m */; };
 /* End PBXBuildFile section */
 
